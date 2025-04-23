@@ -1,10 +1,7 @@
-// GENERATED CODE - DO NOT MODIFY BY HAND
+
 
 part of 'get_post.dart';
 
-// **************************************************************************
-// JsonSerializableGenerator
-// **************************************************************************
 
 Posts _$PostsFromJson(Map<String, dynamic> json) => Posts(
   userId: (json['userId'] as num).toInt(),
